@@ -16,6 +16,8 @@ $ npm install -g tjoskar/eat
 $ eat
 ```
 
+![](demo.gif)
+
 ## License
 
 MIT
