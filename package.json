@@ -1,7 +1,7 @@
 {
   "name": "eat",
   "description": "Help you to decide what to eat",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scripts": {},
   "author": "Tjoskar <kontakta@oskarkarlsson.nu>",
   "bugs": {
