@@ -1,0 +1,33 @@
+{
+  "name": "eat",
+  "description": "Help you to decide what to eat",
+  "version": "1.0.0",
+  "scripts": {},
+  "author": "Tjoskar <kontakta@oskarkarlsson.nu>",
+  "bugs": {
+    "url": "https://github.com/Tjoskar/eat/issues",
+    "email": "kontakta@oskarkarlsson.nu"
+  },
+  "dependencies": {
+    "configstore": "^4.0.0",
+    "got": "^9.2.0",
+    "opn": "^5.3.0",
+    "prompts": "^1.0.0",
+    "terminal-image": "^0.1.1",
+    "terminal-link": "^1.1.0"
+  },
+  "devDependencies": {},
+  "homepage": "https://github.com/Tjoskar/eat",
+  "keywords": [
+    "eat"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "bin": {
+    "eat": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tjoskar/eat"
+  }
+}
