@@ -6,7 +6,7 @@
 ## Install
 
 ```
-$ npm install tjoskar/eat
+$ npm install -g tjoskar/eat
 ```
 
 
